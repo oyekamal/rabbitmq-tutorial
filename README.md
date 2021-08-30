@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=eazz-Je4HAA&ab_channel=ChargeAhead
 
 Tutorial for rabbitmq
 https://www.rabbitmq.com/getstarted.html
+
+for django microservices
+https://www.section.io/engineering-education/communicating-between-your-django-apis-using-rabbitmq/
